@@ -16,3 +16,7 @@ Minimalistic Banking Web Application.  <br>  A Project created to learn advanced
 * Revealing sections on scroll
 * Lazy images loading
 * Slider functionality
+
+# Screenshots
+
+![1](https://github.com/Hashuudev/Bankist-Dom-Manipulation/assets/94761963/76b7ea5d-7a6c-49be-bbc7-de231c841f3b)
