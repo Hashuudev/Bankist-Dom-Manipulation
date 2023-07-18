@@ -1,4 +1,4 @@
-# Bankist-Dom-Manipulation
+# Bankist-Dom-Manipulation [![Netlify Status](https://api.netlify.com/api/v1/badges/23fc71fe-c8e0-42e3-a0fc-2d5aea9e138d/deploy-status)](https://app.netlify.com/sites/hashuudev-bankist-dom/deploys)
 **Minimalistic Banking Web Application**.  <br>  A Project created to learn advanced _DOM manipulation techniques_.  <br>  Bankist is a fictional online bank. It is a project introduced by _Jonas Schmedtmann_ in order to practice DOM manipulation and user interaction.
 
 # Technology Used
